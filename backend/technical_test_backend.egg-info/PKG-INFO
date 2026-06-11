@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: technical-test-backend
+Version: 0.1.0
+Summary: Starter backend para prueba tecnica junior fullstack.
+Author: Equipo Tecnico
+Requires-Python: >=3.11
+Requires-Dist: django<6.0,>=5.0
+Requires-Dist: djangorestframework>=3.15.0
+Requires-Dist: django-cors-headers>=4.4.0
+Requires-Dist: psycopg[binary]>=3.2.0
+Requires-Dist: python-decouple>=3.8
+Requires-Dist: pytest>=8.2.0
+Requires-Dist: pytest-django>=4.8.0

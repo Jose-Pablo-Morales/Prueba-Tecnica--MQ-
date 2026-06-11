@@ -1,0 +1,11 @@
+pyproject.toml
+config/__init__.py
+config/asgi.py
+config/settings.py
+config/urls.py
+config/wsgi.py
+technical_test_backend.egg-info/PKG-INFO
+technical_test_backend.egg-info/SOURCES.txt
+technical_test_backend.egg-info/dependency_links.txt
+technical_test_backend.egg-info/requires.txt
+technical_test_backend.egg-info/top_level.txt
