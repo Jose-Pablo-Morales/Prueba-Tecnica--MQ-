@@ -1,3 +1,5 @@
+(leer TASK.md para documentacion)
+
 # Prueba Técnica Fullstack
 
 Stack: Django + DRF + PostgreSQL + Docker + Next.js
